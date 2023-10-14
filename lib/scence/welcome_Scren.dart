@@ -26,11 +26,7 @@ class welcomeScren extends StatelessWidget{
                   crossAxisAlignment: CrossAxisAlignment.start,
                   children: [
                     Text("Travel With Us",style: TextStyle(
-                      color: Colors.white,
-                      fontSize: 35,
-                      fontWeight: FontWeight.bold,
-                      letterSpacing: 1.5,
-                    ),),
+                      color: Colors.white,fontSize: 35,fontWeight: FontWeight.bold,letterSpacing: 1.5,),),
                     SizedBox(height: 10,),
                     Text("Lorem Ipsum is simply dummy text of "
                         "the printing and typesetting industry.Lorem Ipsum has been"
